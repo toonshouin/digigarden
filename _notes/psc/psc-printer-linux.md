@@ -6,7 +6,7 @@ pubDatetime: 2025-10-21T14:58:24+07:00
 
 Who though it can do that? Here's proof.
 
-<img src="{{ site.baseurl }}/assets/posts/psc/psc-printer-linux/IMG_2341.png"/>
+<img src="{{ site.baseurl }}/assets/posts/psc/psc-printer-linux/IMG_2341.jpg"/>
 
 But how? You guess?
 
