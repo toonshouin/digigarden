@@ -19,10 +19,7 @@ But how? You guess?
 ```bash
 sudo pacman -S cups samba ghostscript
 ```
-and then install PPD Driver ***please copy one line at a time, else it won't work***
-```bash
-yay -S cndrvcups-common-lb
-```
+and then install Canon UFR II PPD Driver
 ```bash
 yay -S cnrdrvcups-lb
 ```
@@ -55,5 +52,6 @@ sudo lpadmin -p Canon_5840i \
     - `/Canon_Mac` - Path to Printer
 - `-P /usr/share/cups/model/CNRCUPSIRADVC5840ZK.ppd` - Spectify PPD Driver (Canon iR-ADV C5840/5850 UFR II	)
 - `-E` - Enable
+> you can set -p as you like, ex. psc-printer
 
 After that, you can print via Printer as normal.
