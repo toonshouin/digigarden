@@ -9,7 +9,7 @@ pubDatetime: 2026-02-26T10:39:59.123Z
 Quick guide ง่อยเพื่อให้ท่านสามารถไปแหกปาก "I use arch btw," ลง Public Chat
 
 > [!NOTE]
-> สำหรับเวอรชั่นภาษาไทย, [คลิกที่นี้!](linux-hof-talesrunner-th)
+> For a English Version, [click here!](linux-hof-talesrunner-en)
 
 ## Prerequisite
 
